@@ -1,4 +1,4 @@
-                 ┌───────────┐
+                  ┌───────────┐
 	          │ KOSTOVCHO │
 	          │-----------│ 
 	          │  Layer 7  │ 
@@ -23,10 +23,6 @@
 - [x] Customize Post Data 
 - [x] Support HTTPS
 - [x] Support Socks4/5
-
-## Showcase
-Using multiproc.sh with socks4 on a vps
-![](https://i.imgur.com/KLJIZs8.png)
 
 ## Install
 
