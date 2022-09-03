@@ -1,4 +1,4 @@
-                  ┌───────────┐
+              ┌───────────┐
 	          │ KOSTOVCHO │
 	          │-----------│ 
 	          │  Layer 7  │ 
@@ -27,8 +27,8 @@
 ## Install
 
     pip3 install requests pysocks
-    git clone https://github.com/Leeon123/CC-attack.git
-    cd CC-attack
+    git clone https://github.com/kostov0/kkddos.git
+    cd kkddos
 
 ## Usage
 
