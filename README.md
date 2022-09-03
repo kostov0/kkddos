@@ -1,9 +1,9 @@
-       /////    /////    /////////////
-      CCCCC/   CCCCC/   | CC-attack |/
-     CC/      CC/       |-----------|/ 
-     CC/      CC/       |  Layer 7  |/ 
-     CC/////  CC/////   | ddos tool |/ 
-      CCCCC/   CCCCC/   |___________|/
+                 ┌───────────┐
+	          │ KOSTOVCHO │
+	          │-----------│ 
+	          │  Layer 7  │ 
+	          │ ddos tool │
+	          └───────────┘
 
 # CC-attack ![](https://img.shields.io/badge/Version-3.7.1-brightgreen.svg) ![](https://img.shields.io/badge/license-GPLv2-blue.svg)
  A script for using socks4/5 or http proxies to attack http(s) server.
